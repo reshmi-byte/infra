@@ -1,6 +1,6 @@
 ### ZenPharma Dev Environment — managed via GitHub Actions CI/CD
 locals {
-  project = "pharma"
+  project = "zenstore"
   env     = "dev"
   region  = "us-east-1"
 }
